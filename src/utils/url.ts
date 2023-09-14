@@ -31,3 +31,8 @@ export function makeSearchURL(origin: string, query: string): string {
   const mapsBase = "https://www.google.com/maps/search/?api=1";
   return mapsBase + "&origin=" + encodeURI(origin) + "&query=" + encodeURI(query);
 }
+
+/**
+ * TODO: can we get JSON format data from Gmap API,
+ * so that we can directly list out ~10 options inside Raycast UI?
+ */
