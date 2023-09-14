@@ -8,3 +8,7 @@ Build something!
     - 💡 Adv. Clipboard checker
     - 💡 Fun facts about me
     - 💡 Food Finder
+
+
+### Credit
+Thanks to lin's [Google Maps search](https://www.raycast.com/ratoru/google-maps-search) extension, the repo is based on this open source project.
